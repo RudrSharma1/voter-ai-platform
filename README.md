@@ -1,7 +1,7 @@
 Voter-AI-Platform
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-A web-based prototype to assist voters using AI-inspired chat, image relevance checks, and voter information validation.
+A civic-tech, web-based prototype aimed at voter education, misinformation control, and neutral awareness around the One Nation One Election initiative, using AI-inspired chat, image relevance checks, and voter information validation.
 
 ************************************************************************************************************************
 TECH STACK
@@ -34,7 +34,7 @@ SETUP & RUN LOCALLY
 ************************************************************************************************************************
 
 Clone the repository
-git clone https://github.com/your-username/voter-ai-platform.git
+git clone https://github.com/RudrSharma1/voter-ai-platform.git
 cd voter-ai-platform
 
 ************************************************************************************************************************
